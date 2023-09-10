@@ -28,7 +28,7 @@
     <input type="ReType Password" placeholder="ReType Password" name="ReType Password" id="ReType Password" required>
     <hr>
     <br>
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+    <p>By creating an account you are agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
   <div class="container signin">
